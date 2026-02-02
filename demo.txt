@@ -1,0 +1,2 @@
+write text from python code
+append some text into my file

@@ -1,0 +1,8 @@
+math library
+https://docs.python.org/3/library/math.html
+time library
+https://docs.python.org/3/library/time.html
+string methods
+https://www.w3schools.com/python/python_ref_string.asp
+
+https://pypi.org/

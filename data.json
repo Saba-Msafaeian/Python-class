@@ -1,0 +1,13 @@
+[
+    {
+        "name": "mhdi",
+        "job": ["fullstack", "AI"]
+    },
+    {
+        "name": "milad",
+        "job": {
+            "freelance": "frontend",
+            "employee": "backend"
+        }
+    }
+]
