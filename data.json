@@ -9,5 +9,9 @@
             "freelance": "frontend",
             "employee": "backend"
         }
+    },
+    {
+        "name": "ali",
+        "job": ["AI"]
     }
 ]
